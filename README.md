@@ -12,4 +12,8 @@ _This will also be italic_
 __This will also be bold__
 
 ~~This test will be delete~~
-__You**can** combine them__
+_You **can** combine them_
+
+- George Washington
+- John Adams
+* Thomas Jefferson
