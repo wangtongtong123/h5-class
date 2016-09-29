@@ -39,9 +39,9 @@ _You **can** combine them_
 
 
 1. Make my changes
-  1.Fix bug
-  2.Improve Formatting
-    *Make the headings bigger
+  1. Fix bug
+  2. Improve Formatting
+    * Make the headings bigger
 2. Push my commits to GitHub
 3. Open a pull request
   * Describe my changes
