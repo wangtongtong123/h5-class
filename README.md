@@ -18,10 +18,20 @@ _You **can** combine them_
 - John Adams
 * Thomas Jefferson
 
-1.James Madison
-2.James Monroe
-3.John Quincy Adams
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
 
-1.James Madison
-2.James Monroe
-3.John Quincy Adams
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+1. Make my changes
+  1.Fix bug
+  2.Improve Formatting
+    *Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+  * Describe my changes
+  * Mention all the members of my team
+    * Ask for feedback
